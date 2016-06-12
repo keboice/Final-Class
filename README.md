@@ -10,9 +10,14 @@ Let's do a brief review of some of the visualizations we've built along the way 
 
 How do you make gifs of visualizations? I use [Licecap](http://www.cockos.com/licecap/) because it's easy, but if you're comfortable with command line tools and want to make high-quality gifs check out [this workflow](http://bl.ocks.org/mbostock/4b88b250bc4439289d94).
 
+##Final Project
+#### Motion Chart
+Recreateion of Google's Motion Chart using Mike Bostock's 'Wealth and Health of Nations' chart as a template. Added interface elements - start button and slider. 
+<img src='motion.gif'>
+
 #### Dancing Ansombe's
 Open in new window. In a JavaScript Console, try `dance("III")` then `dance("IV")` to transition the plot
-[<img src=https://cloud.githubusercontent.com/assets/156229/15488185/be472a1e-2108-11e6-8252-f7d9d75afba2.png width=500 />](http://bl.ocks.org/syntagmatic/ab4d02ef3b1fad96511b5274a01b95a5)
+[<img src='anscombes.gif'>](http://bl.ocks.org/keboice/1ad291d2506da8b9418e47d2f96f7a58)
 
 #### Baseball Scatterplot
 [<img src=https://cloud.githubusercontent.com/assets/156229/15914266/5d3918b6-2d94-11e6-87b8-ea019597b1e0.png width=500 />](http://bl.ocks.org/syntagmatic/ba23d525f8986cb0ebf30a5dd30c9dd2)
