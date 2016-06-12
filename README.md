@@ -1,4 +1,4 @@
-#Class 12: Grab Bag/Smorgasbord
+#Class 12: Project Reviews
 
 ##Final Project
 #### Motion Chart
