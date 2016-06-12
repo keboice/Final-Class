@@ -16,7 +16,7 @@ D3 Time Series Chart using Mike Bostock's [Wealth and Health of Nations] (https:
 [<img src='motion.gif' width=500>] (http://bl.ocks.org/keboice/raw/037f7ac2089bbe455e86140d24bdefc9/)
 
 ##Class Projects
-Below is a review of the vizualizations we've completed over the course of the last six weeks. Click on the images to go to visit the charts.
+Below is a review of the vizualizations we've completed over the course of the last six weeks. Click on the images to visit the charts.
 
 #### Dancing Ansombe's
 [<img src='anscombes.gif' width=500>](http://bl.ocks.org/keboice/1ad291d2506da8b9418e47d2f96f7a58)
