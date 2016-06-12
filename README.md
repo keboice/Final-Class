@@ -16,17 +16,17 @@ Below is a review of the vizualizations we've completed over the course of the l
 [<img src=https://cloud.githubusercontent.com/assets/156229/15914266/5d3918b6-2d94-11e6-87b8-ea019597b1e0.png width=500 />](http://bl.ocks.org/syntagmatic/ba23d525f8986cb0ebf30a5dd30c9dd2)
 
 ##Nesting Exercises
-In these exercises, we filtered data and nested charts to create small multiples. 
+In these exercises, we filtered data and nested charts to create small multiples, and continued with transitions.
 
 #### Barley Boxplot by Ramesh
 
 [<img src=https://cloud.githubusercontent.com/assets/156229/15921058/9882d512-2dd3-11e6-9532-a9afe70d7de9.png width=500 />](http://bl.ocks.org/sampathweb/98ae33d2c8409234ec8d05f1be76a86f)
 
+#### Extended Barley Yield Small Multiples
+[<img src=https://cloud.githubusercontent.com/assets/156229/15488188/c0d6c0f0-2108-11e6-83e8-613d953a0f35.png width=500 />](http://bl.ocks.org/syntagmatic/raw/166e594e16727d9c550ae1eee1f848d4/)
+
 #### Dancing Barley Sites
 [<img src=https://cloud.githubusercontent.com/assets/156229/15916448/09e06552-2da8-11e6-81c2-05ab6875faf5.gif width=500 />](http://bl.ocks.org/syntagmatic/raw/77b6fae2592e90540c0f01cdbd9b332c/)
-
-#### Extended Barley Yield Small Multiples
-[<img src=https://cloud.githubusercontent.com/assets/156229/15488188/c0d6c0f0-2108-11e6-83e8-613d953a0f35.png width=500 />](http://bl.ocks.org/syntagmatic/166e594e16727d9c550ae1eee1f848d4)
 
 ##Maps
 
