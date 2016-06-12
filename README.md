@@ -10,7 +10,7 @@ Below is a review of the vizualizations we've completed over the course of the l
 
 ###Scatterplot/Transition Exercises
 #### Dancing Ansombe's
-[<img src='anscombes.gif' width=500>](http://bl.ocks.org/keboice/1ad291d2506da8b9418e47d2f96f7a58)
+[<img src='anscombes.gif' width=500>](http://bl.ocks.org/keboice/raw/1ad291d2506da8b9418e47d2f96f7a58/)
 
 #### Baseball Scatterplot
 [<img src=https://cloud.githubusercontent.com/assets/156229/15914266/5d3918b6-2d94-11e6-87b8-ea019597b1e0.png width=500 />](http://bl.ocks.org/syntagmatic/ba23d525f8986cb0ebf30a5dd30c9dd2)
