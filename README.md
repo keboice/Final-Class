@@ -8,8 +8,6 @@ Hopefully you know how to get started with D3 and some of the idioms used in cre
 
 Let's do a brief review of some of the visualizations we've built along the way and share our project progress. Also check out this visualization of [rhyme patterns from the musical 'Hamilton'](http://graphics.wsj.com/hamilton/) along with [notes on how they made it](https://source.opennews.org/en-US/articles/hamilton-algorithm/).
 
-How do you make gifs of visualizations? I use [Licecap](http://www.cockos.com/licecap/) because it's easy, but if you're comfortable with command line tools and want to make high-quality gifs check out [this workflow](http://bl.ocks.org/mbostock/4b88b250bc4439289d94).
-
 ##Final Project
 #### Motion Chart
 D3 Time Series Chart using Mike Bostock's [Wealth and Health of Nations] (https://bost.ocks.org/mike/nations/) chart as a template. Added interface elements - start button and slider. Click on image below to go to chart.
