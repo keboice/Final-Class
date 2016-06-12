@@ -13,11 +13,11 @@ How do you make gifs of visualizations? I use [Licecap](http://www.cockos.com/li
 ##Final Project
 #### Motion Chart
 D3 Time Series Chart using Mike Bostock's [Wealth and Health of Nations] (https://bost.ocks.org/mike/nations/) chart as a template. Added interface elements - start button and slider. Click on image below to go to chart.
-[<img src='motion.gif'>] (http://bl.ocks.org/keboice/raw/037f7ac2089bbe455e86140d24bdefc9/)
+[<img src='motion.gif width=500'>] (http://bl.ocks.org/keboice/raw/037f7ac2089bbe455e86140d24bdefc9/)
 
 #### Dancing Ansombe's
 Press buttons to transition the plot
-[<img src='anscombes.gif'>](http://bl.ocks.org/keboice/1ad291d2506da8b9418e47d2f96f7a58)
+[<img src='anscombes.gif' width=500>](http://bl.ocks.org/keboice/1ad291d2506da8b9418e47d2f96f7a58)
 
 #### Baseball Scatterplot
 [<img src=https://cloud.githubusercontent.com/assets/156229/15914266/5d3918b6-2d94-11e6-87b8-ea019597b1e0.png width=500 />](http://bl.ocks.org/syntagmatic/ba23d525f8986cb0ebf30a5dd30c9dd2)
