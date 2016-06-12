@@ -37,7 +37,7 @@ In these exercises, we filtered data and nested charts to create small multiples
 [<img src=https://cloud.githubusercontent.com/assets/156229/15728663/be3966ca-2812-11e6-8dc5-f7de24de34fa.gif width=500 />](http://bl.ocks.org/syntagmatic/ae462bc7fea8a2b97bc75196359e8a39)
 
 #### Drought Small Multiples
-[<img src=https://cloud.githubusercontent.com/assets/156229/15911919/b2aa35a4-2d86-11e6-9de5-0b39f7c871e8.png width=500 />](http://bl.ocks.org/syntagmatic/d54249c65e15be1612e1cf7d7d02e3f2)
+[<img src=https://cloud.githubusercontent.com/assets/156229/15911919/b2aa35a4-2d86-11e6-9de5-0b39f7c871e8.png width=500 />](http://bl.ocks.org/keboice/raw/83c942e4afb812d5d30a99b136a32ca4/)
 
 ##Animation - just for fun
 
