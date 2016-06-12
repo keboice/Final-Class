@@ -2,11 +2,11 @@
 
 ##Final Project
 #### Motion Chart
-D3 Time Series Chart using Mike Bostock's [Wealth and Health of Nations] (https://bost.ocks.org/mike/nations/) chart as a template. Added interface elements - start button and slider. Click on image below to go to chart.
+D3 Time Series Chart using Mike Bostock's [Wealth and Health of Nations] (https://bost.ocks.org/mike/nations/) chart as a template. Added a start button and slider using jquery and html5 range slider to control the animation. Click on image below to go to chart.
 [<img src='motion.gif' width=500>] (http://bl.ocks.org/keboice/raw/037f7ac2089bbe455e86140d24bdefc9/)
 
 ##Class Projects
-Below is a review of the vizualizations we've completed over the course of the last six weeks. Click on the images to visit the charts.
+Below is a review of the vizualizations we completed over the course of the last six weeks. Click on the images to visit the charts.
 
 ###Scatterplot/Transition Exercises
 #### Dancing Ansombe's
