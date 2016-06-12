@@ -12,11 +12,11 @@ How do you make gifs of visualizations? I use [Licecap](http://www.cockos.com/li
 
 ##Final Project
 #### Motion Chart
-Recreateion of Google's Motion Chart using Mike Bostock's 'Wealth and Health of Nations' chart as a template. Added interface elements - start button and slider. 
-<img src='motion.gif'>
+D3 Time Series Chart using Mike Bostock's [Wealth and Health of Nations] (https://bost.ocks.org/mike/nations/) chart as a template. Added interface elements - start button and slider. Click on image below to go to chart.
+[<img src='motion.gif'>] (http://bl.ocks.org/keboice/raw/037f7ac2089bbe455e86140d24bdefc9/)
 
 #### Dancing Ansombe's
-Open in new window. In a JavaScript Console, try `dance("III")` then `dance("IV")` to transition the plot
+Press buttons to transition the plot
 [<img src='anscombes.gif'>](http://bl.ocks.org/keboice/1ad291d2506da8b9418e47d2f96f7a58)
 
 #### Baseball Scatterplot
